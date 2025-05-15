@@ -1,0 +1,3 @@
+[submodule "AI-in-action"]
+	path = AI-in-action
+	url = git@github.com:RoryMid/AI-in-action.git
